@@ -1,0 +1,25 @@
+# Ignorar arquivos compilados do Python
+*.pyc
+__pycache__/
+
+# Ambientes virtuais
+env/
+venv/
+.venv/
+ENV/
+.env
+
+# Configurações de editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
