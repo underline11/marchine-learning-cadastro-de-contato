@@ -1,0 +1,21 @@
+# Cadastro de Contatos
+
+Este projeto é um sistema simples de cadastro de contatos em Python. Ele permite cadastrar, consultar e remover contatos, utilizando estruturas de dados como listas e dicionários. O objetivo é aplicar conceitos básicos de entrada e saída, funções e manipulação de dados.
+
+## Funcionalidades
+
+- **Cadastro de Contato:** Permite inserir o nome, telefone e e-mail de uma pessoa.
+- **Consulta de Contato:** Permite buscar um contato pelo nome.
+- **Remoção de Contato:** Permite remover um contato existente pelo nome.
+
+## Estrutura
+
+- **Nome**: Nome completo do contato.
+- **Telefone**: Número de telefone do contato.
+- **E-mail**: Endereço de e-mail do contato.
+
+## Como usar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seuusuario/cadastro-de-contatos.git
